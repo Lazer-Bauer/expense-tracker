@@ -12,7 +12,7 @@
   #bigScreen {
     display: none;
   }
-  body .app-container {
+  .app-container {
     width: 100% !important;
   }
 
